@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "depcheck": "depcheck",
+    "lint": "./lint.sh"
+  },
+  "devDependencies": {
+    "depcheck": "1.4.1",
+    "eslint": "7.27.0"
+  }
+}
