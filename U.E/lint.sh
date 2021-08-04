@@ -1,3 +1,3 @@
 #!/bin/bash -e
 
-yarn eslint .
+yarn eslint  .
